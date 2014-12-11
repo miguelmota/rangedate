@@ -13,17 +13,17 @@ npm install rangedate
 ```javascript
 var rangeDate = require('rangedate');
 
-rangeDate(new Date(2014,11,01), new Date(2014,11,05))
+rangeDate(new Date(2014,11,06), new Date(2014,11,10))
   .map(function(date) {
     return date.getDate();
   });
 
-// [1,2,3,4,5]
+// [6,7,8,9,10]
 ```
 
 # Docs
 
-### `rangeDate(startDate, [endDate=Date.now()])`
+#### `rangeDate(startDate, [endDate=Date.now()])`
 
 # License
 
