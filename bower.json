@@ -8,8 +8,8 @@
   ],
   "description": "Generate an array of dates",
   "keywords": [
-    "property",
-    "checker"
+    "range",
+    "date"
   ],
   "ignore": [
     "**/.*",
