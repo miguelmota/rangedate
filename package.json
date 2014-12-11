@@ -1,0 +1,29 @@
+{
+  "name": "rangedate",
+  "version": "0.0.2",
+  "description": "Generate an array of dates",
+  "main": "rangedate.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/rangedate"
+  },
+  "keywords": [
+    "range",
+    "date"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/rangedate/issues"
+  },
+  "homepage": "https://github.com/miguelmota/rangedate",
+  "dependencies": {
+    "tape": "^3.0.3"
+  }
+}
