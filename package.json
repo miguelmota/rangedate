@@ -23,7 +23,7 @@
     "url": "https://github.com/miguelmota/rangedate/issues"
   },
   "homepage": "https://github.com/miguelmota/rangedate",
-  "dependencies": {
+  "devdependencies": {
     "tape": "^3.0.3"
   },
   "testling": {
